@@ -12,6 +12,7 @@ A collection for a home like in 2100
 9. Tablet-Like wall where you can control it all if you dont wanna speak to echo
 10. A good anti-Burglary system, eventually some red and blue flickering lights connected to it :)
 11. skybell hd doorbell
+12. Echine charger, clock, thermometer (All in one)
 
 this is just a personal list with products ive found, feel free to make a pr if u know something else thats cool
 
