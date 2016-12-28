@@ -2,7 +2,7 @@
 A collection for a home like in 2100
 
 * Lighting: philips hue
-* philips smart home sensors
+* philips smart home sensors(hub required)
 * amazon echo for speech controlling
 * sonos soundsystem
 * Divoom Aurorabox
