@@ -12,6 +12,7 @@ A collection for a home like in 2100
 * A good anti-Burglary system, eventually some red and blue flickering lights connected to it :)
 * skybell hd doorbell
 * Echine charger, clock, thermometer (All in one)
+* Nest smoke alarm
 
 this is just a personal list with products ive found, feel free to make a pr if u know something else thats cool
 
