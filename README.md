@@ -13,6 +13,7 @@ A collection for a home like in 2100
 * skybell hd doorbell
 * Echine charger, clock, thermometer (All in one)
 * Nest smoke alarm
+* Nest smart thermostat
 
 this is just a personal list with products ive found, feel free to make a pr if u know something else thats cool
 
