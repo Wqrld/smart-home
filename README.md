@@ -2,14 +2,13 @@
 A collection for a home like in 2100
 
 * Lighting: philips hue
-* philips smart home sensors(hub required)
+* samsung smartthings sensors(hub required)
 * amazon echo for speech controlling
 * sonos soundsystem
 * Divoom Aurorabox
 * apple watch
 * solar panels
 * apple tv
-* A good anti-Burglary system, eventually some red and blue flickering lights connected to it :)
 * skybell hd doorbell
 * Echine charger, clock, thermometer (All in one)
 * Nest smoke alarm
