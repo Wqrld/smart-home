@@ -9,6 +9,7 @@ A collection for a home like in 2100
 * apple watch
 * solar panels
 * apple tv
+* august smart lock
 * skybell hd doorbell
 * Echine charger, clock, thermometer (All in one)
 * Nest smoke alarm
