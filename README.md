@@ -17,7 +17,7 @@ A collection for a home like in 2100
 * Logitech harmony hub
 * garageio controlled garage
 * scout security system
-
+* samsung cleaner
 this is just a personal list with products ive found, feel free to make a pr if u know something else thats cool. i would've bought these all but yeah.... price
 
 disclaimer: these brands are not affiliated in any way with me, github, people that help or this repo
